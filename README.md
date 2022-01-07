@@ -1,5 +1,5 @@
 # GoalsApp
-### Goals Setting App made using React Native. It is one of my first application I have build over react native.
+### Goals Setting App made using React Native. It is one of my first application I have build while learning react native .
 
 #### Functionality App has Right Now:-
 <ul>
